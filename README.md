@@ -62,6 +62,8 @@ The repo has support to start a fresh lucky project. Just use `lucky init` and m
 
 Open VS Code, your recent project, then the integrated terminal. Run `script/setup` followed by `lucky dev`. Now open your browser to `localhost:5000`
 
+You can also run `crystal spec` and hopefully see a passing suite.
+
 ## Closing thoughts
 
 This simple example is only the start. I'll explore it with my lucky/crystal projects and update this as I learn/discover what works or doesn't.
